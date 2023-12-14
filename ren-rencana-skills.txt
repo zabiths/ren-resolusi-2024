@@ -2,5 +2,7 @@ Rencana Skills Ren
 
 - Jago React
   Bikin landing page 
+- Jago Nodejs
+- Postgre SQL
 - Fundamental Figma
 - Jago Taailwind CSS
