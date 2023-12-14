@@ -1,0 +1,4 @@
+Rencana Skills Ren
+
+- Jago React 
+- Jago Taailwind CSS
