@@ -4,5 +4,6 @@ Rencana Skills Ren
   Bikin landing page 
 - Jago Nodejs
 - Postgre SQL
+- MySQL
 - Fundamental Figma
 - Jago Taailwind CSS
