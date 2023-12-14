@@ -1,4 +1,5 @@
 Rencana Skills Ren
 
-- Jago React 
+- Jago React
+  Bikin landing page 
 - Jago Taailwind CSS
