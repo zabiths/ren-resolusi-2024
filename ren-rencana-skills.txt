@@ -1,0 +1,5 @@
+Rencana Skills Ren
+
+- Jago React
+  Bikin landing page 
+- Jago Taailwind CSS
